@@ -40,4 +40,11 @@ client.on('message', message => {
 	}
 });
 
-client.login(token);
+(async () => {
+    client.login(token);
+
+    console.log(client)
+})();
+
+
+// module.exports = client;
