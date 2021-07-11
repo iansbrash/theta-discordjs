@@ -119,3 +119,4 @@ dist
 
 # sensitive
 sensitive/
+commands/keygen/sensitive.js

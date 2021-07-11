@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "jsonwebtoken": "^8.5.1"
   }
 }
